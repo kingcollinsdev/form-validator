@@ -85,7 +85,7 @@ project-name/
 
 Your Name - Collins Wachira Ndegwa - collinswachira2004@gmail.com
 
-Project Link: [https://github.com/kingcollinsdev/form-validator.git](https://github.com/your-username/project-name)
+Project Link: [https://github.com/kingcollinsdev/form-validator.git](https://form-validator-inky-delta.vercel.app/)
 
 ## Acknowledgments
 
